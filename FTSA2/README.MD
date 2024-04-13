@@ -4,7 +4,7 @@
 This notebook is designed for an in-depth analysis of financial time series data, focusing on different asset classes like stocks, commodities, and cryptocurrencies. It utilizes various statistical and econometric techniques to examine time series properties such as stationarity, autocorrelation, and volatility.
 
 ## Key Components
-- **Data Retrieval:** Fetches daily and monthly time series data for various assets like NASDAQ, gold, Ethereum, and Brent Crude Oil from Yahoo Finance.
+- **Data Retrieval:** Fetches daily time series data for various assets like NASDAQ, gold, Ethereum from Yahoo Finance.
 - **Time Series Analysis:** Implements log transformation, calculates returns, and analyzes time series characteristics using plots.
 - **Statistical Testing:** Conducts tests like Augmented Dickey-Fuller and Ljung-Box to assess stationarity and autocorrelation.
 - **Model Fitting:** Fits ARIMA models to the data to understand underlying patterns.
